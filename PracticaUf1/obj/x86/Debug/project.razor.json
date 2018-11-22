@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/raul/Desktop/Practica/PracticaUf1/PracticaUf1/PracticaUf1.csproj",
+  "TargetFramework": "v4.7",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

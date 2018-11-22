@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{FC620137-E9BF-4037-AEC1-88F98777FA8A}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="PracticaUf1/Program.cs" Line="32" Column="44" />
+      <File FileName="PracticaUf1/Casilla.cs" Line="24" Column="20" />
+      <File FileName="PracticaUf1/FuncionalidadTablero.cs" Line="92" Column="8" />
+      <File FileName="PracticaUf1/TratarFicheros.cs" Line="19" Column="50" />
+      <File FileName="PracticaUf1/Tablero.cs" Line="12" Column="3" />
+      <File FileName="PracticaUf1/Palabra.cs" Line="32" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PracticaUf1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

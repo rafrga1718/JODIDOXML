@@ -1,0 +1,6 @@
+/home/raul/Desktop/Practica/PracticaUf1/PracticaUf1/bin/Debug/PracticaUf1.exe
+/home/raul/Desktop/Practica/PracticaUf1/PracticaUf1/bin/Debug/PracticaUf1.pdb
+/home/raul/Desktop/Practica/PracticaUf1/PracticaUf1/obj/x86/Debug/PracticaUf1.csprojResolveAssemblyReference.cache
+/home/raul/Desktop/Practica/PracticaUf1/PracticaUf1/obj/x86/Debug/PracticaUf1.csproj.CoreCompileInputs.cache
+/home/raul/Desktop/Practica/PracticaUf1/PracticaUf1/obj/x86/Debug/PracticaUf1.exe
+/home/raul/Desktop/Practica/PracticaUf1/PracticaUf1/obj/x86/Debug/PracticaUf1.pdb
